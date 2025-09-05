@@ -1,5 +1,9 @@
 # CSS-Only Scroll Spy Demo
 
+## Preview
+
+![Scroll Spy Demo](./CSS-OnlyScrollSpy.gif)
+
 A simple demonstration of CSS-only scroll spy functionality using the modern `scroll-target-group` property and `:target-current` pseudo-class.
 
 ## Features
